@@ -1,5 +1,6 @@
 # Assignment
 Problem 1
+Tools used - Figma
 
 ![Web 1](https://user-images.githubusercontent.com/119914495/205822227-1953e831-d751-42fb-bf0f-24401327edbc.png)
 ![Web 2](https://user-images.githubusercontent.com/119914495/205822263-2d069f9d-157c-4df3-b12c-b117456e5a59.png)
